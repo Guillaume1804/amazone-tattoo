@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import heroImage from "../assets/hero-img.png";
 import tatoueurImage from "../assets/pexels-photo-14242278.jpeg";
 import ScrollDownButton from "../components/ScrollDownButton";
-import GalleryGrid from "../components/GalleryGrid";
+import GalleryPreview from "../components/GalleryPreview";
 import PageWrapper from "../components/PageWrapper";
 import RevealOnScroll from "../components/RevealOnScroll";
 
@@ -101,7 +101,7 @@ function Home() {
           </div>
 
           <RevealOnScroll delay={0.4}>
-            <div className="md:w-1/2 relative">
+            <div className="relative">
               <div className="fade-mask overflow-hidden rounded-lg shadow-lg relative">
                 <img
                   src={tatoueurImage}
@@ -123,7 +123,7 @@ function Home() {
             </h2>
           </RevealOnScroll>
           <RevealOnScroll delay={0.2}>
-            <GalleryGrid limit={3} mode="home" />
+            <GalleryPreview limit={3} />
           </RevealOnScroll>
         </div>
       </section>

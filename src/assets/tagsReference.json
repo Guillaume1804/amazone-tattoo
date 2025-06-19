@@ -1,0 +1,134 @@
+{
+  "styles": [
+    {
+      "label": "tribal",
+      "description": "Motifs noirs inspirés des cultures ancestrales (Maori, Polynésien...)"
+    },
+    {
+      "label": "fineline",
+      "description": "Traits très fins, souvent détaillés et minimalistes"
+    },
+    {
+      "label": "blackwork",
+      "description": "Tatouage en aplats noirs profonds, souvent graphiques"
+    },
+    {
+      "label": "dotwork",
+      "description": "Dessins réalisés par accumulation de points"
+    },
+    {
+      "label": "japonais",
+      "description": "Tatouage traditionnel japonais : samouraïs, carpes, dragons..."
+    },
+    {
+      "label": "réaliste",
+      "description": "Représentation fidèle du réel : portraits, objets, animaux"
+    },
+    {
+      "label": "graphique",
+      "description": "Combinaison d’éléments visuels modernes et abstraits"
+    },
+    {
+      "label": "géométrique",
+      "description": "Formes géométriques précises : cercles, lignes, symétries"
+    },
+    {
+      "label": "néo-traditionnel",
+      "description": "Couleurs vives et formes modernes sur une base traditionnelle"
+    },
+    {
+      "label": "traditionnel",
+      "description": "Old school : contours épais, couleurs primaires, iconographie classique"
+    },
+    {
+      "label": "chicano",
+      "description": "Inspiré de la culture latino-américaine : visages, lettres, religion"
+    },
+    {
+      "label": "old school",
+      "description": "Style rétro américain : ancres, pin-ups, roses, aigles"
+    },
+    {
+      "label": "new school",
+      "description": "Couleurs flashy, formes exagérées, style cartoon"
+    },
+    {
+      "label": "minimaliste",
+      "description": "Dessins simples, peu détaillés, lignes épurées"
+    },
+    {
+      "label": "aquarelle",
+      "description": "Effet peinture diluée, sans contours nets, couleurs diffuses"
+    }
+  ],
+  "themes": [
+    {
+      "label": "animal",
+      "description": "Tatouages représentant des animaux (loup, tigre, serpent…)"
+    },
+    {
+      "label": "fleur",
+      "description": "Roses, pivoines, lotus et autres éléments floraux"
+    },
+    {
+      "label": "crâne",
+      "description": "Symboles de mortalité, souvent associés au style réaliste ou chicano"
+    },
+    {
+      "label": "dragon",
+      "description": "Créatures mythiques asiatiques ou occidentales"
+    },
+    {
+      "label": "portrait",
+      "description": "Visages humains réalistes : célébrités, proches ou imaginaires"
+    },
+    {
+      "label": "mythologie",
+      "description": "Figures mythologiques : dieux, créatures, héros antiques"
+    },
+    {
+      "label": "religieux",
+      "description": "Symboles spirituels : croix, anges, prières, divinités"
+    },
+    {
+      "label": "fantastique",
+      "description": "Éléments issus de mondes imaginaires : elfes, sorciers, monstres"
+    },
+    {
+      "label": "espace",
+      "description": "Univers galactique : planètes, étoiles, astronautes"
+    },
+    {
+      "label": "nature",
+      "description": "Paysages, montagnes, arbres, éléments naturels"
+    },
+    {
+      "label": "symbole",
+      "description": "Icônes simples, puissantes : infini, yin-yang, runes"
+    },
+    {
+      "label": "mandala",
+      "description": "Motifs circulaires sacrés à répétition géométrique"
+    },
+    {
+      "label": "personnage fictif",
+      "description": "Personnages issus de films, jeux, animés ou BD"
+    },
+    {
+      "label": "squelette",
+      "description": "Structures osseuses humaines ou animales"
+    },
+    {
+      "label": "calligraphie",
+      "description": "Tatouages de texte stylisé, lettres, mots, citations"
+    },
+    {
+      "label": "horloge",
+      "description": "Montres, cadrans, symboles du temps"
+    },
+    {
+      "label": "ange / démon",
+      "description": "Figures opposées représentant le bien et le mal"
+    }
+  ]
+}
